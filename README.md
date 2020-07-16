@@ -1,6 +1,6 @@
 ### Hi there, it's Omar 👋
 
-I'm a friendly geek,  who's interested in challenges that combine people and technology at scale in a friendly and growing environment.
+I'm a friendly geek who's interested in challenges that combine people and technology at scale in a friendly and growing environment.
 
 ![Omar's github stats](https://github-readme-stats.vercel.app/api?username=owahab)
 
